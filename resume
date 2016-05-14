@@ -1,0 +1,179 @@
+Abbreviated Resume (full resume available upon request)
+
+Specializing in:
+
+Distributed back-end applications on multiple platforms: UNIX to Windows to Mainframe.
+Real-time/multi-threaded programming (LINUX/UNIX/POSIX or Win32).
+Real-time access to Database from time-critical applications.
+Process Engineering including CMM and IS0 9000.
+
+
+Technology Summary:
+
+Servers/Operating Systems
+
+Intel/Windows ; Intel/LINUX(Ubuntu, SUSE, etc.); Intel/iRMX; IBM RISC/AIX 5.2; SUN blade/SunOs/Solaris; Compaq/Tru64 UNIX 4.0f; HP-9000/HP-UX
+
+Network/Database/Utilities
+
+TCP/IP, UDP , Winsock; HTTPS, SOAP/XML; REST; BOOST, OPENSSL; POP3; X.25; Frame Relay; ISDN/BRI; IIS 7.0; Oracle 11g; Toad for Oracle 9.6; SQL*Loader; Microsoft SQL Server; MySQL, DCOM, DCE/RPC; Oracle Pro*C; PL/SQL; Perl; Python, ASP/HTML; NVIDIA/ CUDA; Java; cURL; Chilkat; Git; Gnu/Gdb/Gprof; PVCS; StarTeam; SourceSafe.
+
+
+Language proficiency:
+
+C/C++ (Microsoft Visual, Borland, GNU),
+C#/.NET,
+Visual C++/MFC, STL, Oracle Pro*C,
+PL/SQL,
+Python, Perl,
+Java,
+UNIX Shell script,
+PL/1,
+Fortran,
+COBOL
+
+
+Education:
+
+Bachelor of Science in Computer and Information Science, University Of Florida, Gainesville, Florida. Areas of Academic Specialization: Mathematics, Asian Studies.
+
+Public Domain / Papers:
+
+"Last Call review of User Agent Accessibility Guidelines 1.0 W3C Working Draft-November-1999".
+
+
+Work Experience:
+
+Independent Consultant /Los Angeles, CA
+1/2016 -- Present
+
+Senior Software Engineer
+
+Currently working for client on a technology research grant from NASA applying Hidden Markov Model and other advanced probability modeling techniques to the problem of voice recognition in noisy environments. Developed profiling code in 'C', and made changes that improved accuracy/efficiency by approximately 50%.
+
+Designed/Developed first pass of Convolutional Neural Network (CNN) that prepared training image frames for a facial feature recognition system. I wrote this program in C++ running under Intel/LINUX.
+
+Environment:
+Ubuntu LINUX/C, Windows 9, NVIDA/CUDA GPU toolkit, Visual Studio; Python.
+
+Merchant Partners /Santa Monica, CA
+2/2010 -- 12/2015
+
+Senior Software Engineer
+
+Developed real-time financial transaction switching software in C++ that permits thousands of merchants to process electronic payments through a common gateway which are routed to the appropriate authorization network. Developed interface to authorization networks utilizing XML/SOAP and REST interface standards over TCP/IP; using Triple-DES (3DS) Encryption/Hashing and CBC Decryption.
+
+Analyzed complex payment authorization network interface specifications and developed corresponding ISO 8583 and EMV compliant payment gateway interface software which passed all authorization network certification tests. Coordinated activities related to network certification including establishment of connectivity and test scripting software configuration.
+
+
+Environment:
+Windows 7 Ultimate and XP multi-processor workstations, Microsoft Visual Studio 2005-2008/C++; Windows NT servers; IIS 7; Oracle 11g, PL/SQL, SQL*Plus, TOAD; SourceSafe; Java, XML/SOAP, RESTful API, OPENSSL/HTTPS, DUKPT, Perl.
+
+
+Aerotek / Los Angeles, CA
+10/2008 -- 2/2010
+
+Contract Consultant
+
+Client: Rockwell Collins (formerly ARINC) / Rail Transportation Systems
+
+Developed Positive Train Control processes that handle requests from the railroad Computer-Aided Dispatch system to pre-process Movement Authority and Bulletin messages into specific locomotive directives.
+Developed a database agent and API that provided database layer independent interface to clients requiring access to an Oracle real-time database.
+Developed a document analysis utility that converted english syntax data design descriptions directly into SQL executable statements and real-time database definition specification files using GCC under LINUX.
+Performed database administration of Oracle, LINUX and Windows NT based database servers. Included: Oracle installation; creation of database restart scripts in Bash, TCL and SQL*Plus; troubleshoot and correct Listener and TNS connectivity issues; create SQL scripts to generate data tables and views based on application requirements; assist development team with data design issues and constraints.
+
+Environment:
+Windows Vista and XP multi-processor workstations, Microsoft Visual Studio 2008/C++; LINUX and Windows NT servers; Oracle 11g, PL/SQL, SQL*Plus, GNU/GCC; StarTeam version control and SEI/CMM; Java, Tcl/Tk, SQL, Netbeans, XML.
+
+InterNext / Tampa, Florida
+2005 -- 2008
+
+Client: Fidelity National Information Services (formerly Certegy)
+
+Major re-architecture and conversion of iRMX / dbVista legacy check authorization application to AIX / Oracle using SQL*Loader and custom data conversion / database load tools and scripts.
+
+Environment:
+IBM RS/6000 AIX 5.2, DEC Tru64 UNIX; SUN blade SunOs; Intel-based servers under Windows XP and Windows NT; Oracle Pro*C; PL/SQL; SQL*Loader; Oracle 10g; Microsoft Visual Studio C++ MFC, TCP/IP, UDP.
+
+Methodology:
+Created all SDLC documentation for the above project including Business Requirements, High-Level Design, Detailed Design, Program Test Plan and Implementation Plan. Each document was presented to team members to provide a clear understanding of the project. All documentation and code was peer-reviewed by senior technical staff per CMM guidelines and revised until design and scope of the work being performed was well understood, agreed upon and sign-off by responsible management was achieved.
+2003 -- 2004
+
+Client: Certegy Check Technology (formerly Equifax Payment Services)
+
+Designed and implemented a real-time check authorization server process that accepts batched ACH transactions from a PC-based client application.
+
+
+Environment:
+IBM RS/6000 AIX 5.1, DEC Tru64 UNIX/C; SUN blade SunOs; Intel-based servers under Windows XP and Windows NT; Oracle Pro*C; PL/SQL; Oracle 10g; UDP.
+
+
+2002 -- 2003
+
+Client: Tandel Systems (major contractor: Honeywell)
+
+Participated in design effort for a mobile launch vehicle tracking and missile range safety system for the U.S. Air Force.
+
+
+2000 -- 2002
+
+Contract Consultant
+
+Client: Certegy Check Technology (formerly Equifax Payment Services)
+
+Designed and implemented a UNIX-based, multi-threaded (POSIX) generic data base server proxy agent that provides a common network interface to clients requiring access to Oracle and dbVista databases.
+Developed an AIX executable image analysis/comparison utility that provides a side-by-side comparison of executables encoded in the Extended Common-Object File Format (XCOFF) which is the object file format for AIX.
+Designed and implemented a real-time check authorization process that compares ID information against an Oracle data base.
+Created Dynamic Link Libraries (DLLs) in Visual C++ to allow application programs written in Visual Basic to communicate via UDP to UNIX-based, real-time transactions servers.
+
+Environment:
+IBM RISC System/6000 under AIX 4.2.1; Windows 95/NT Workstation; multiprocessor servers running under iRMX and DEC-UNIX; iRMX, Microsoft Visual Studio C++; DEC Tru64-UNIX 4.0f; Oracle 8.1.5, PL/SQL, Pro*C, SQL*Plus, POSIX and WIN32.
+
+
+2000 - 2000
+
+Contract Consultant
+
+Client: WetStone Technologies
+
+Designed and implemented a C++ class library for interface to a PKCS-11 compliant data encryption device to support access to "Trusted" Time Sources for certificate and electronic signature time stamping (ref. "X.509 Public Key Infrastructure Time Stamp Protocol).
+Modified ASN.1 syntax compiler for same project.
+
+Environment:
+Intel-based servers under Windows NT; Microsoft Visual Studio C++/MFC, DCOM, DCE/RPC, Winsock.
+
+
+1999 - 2000
+
+Contract Consultant
+
+Client: Equifax Payment Services Card Technology
+
+Participated in re-design/re-engineering effort and subsequent development/deployment of a highly-scalable, multi-threaded, event-driven communications server.
+Increased upload efficiency ten-fold through use of multi-threading and intelligent polling techniques.
+
+Environment:
+Pentium and Compaq multiprocessor servers running under Windows NT Server 3.51, 4.0; Microsoft Visual C++ 4.2/1.52, CrystalComm Class library (Z-Modem and Crystal protocols), Intersolv PVCS, Winsock SDK.
+
+Oxford & Associates / Tampa, Florida
+1996 -- 1998
+
+Client: Utility Partners
+
+Designed and implemented a protocol class library using Visual C++ for the Dataradio Multiplex Protocol (DMP) which communicated with Dataradio modems in Utility Service Vehicles to aid in Dispatch/Control.
+Designed and implemented a multi-layer protocol analysis tool used for testing interfaces between systems communicating using TCP/IP, UDP and PPP protocols.
+
+Environment:
+Windows NT; Visual C++/Win32, TCP/IP, UDP; PPP; DMP; Winsock; Mobile Data Terminals running Windows CE for Pen-Based computers.
+interNext /St. Petersburg, Florida
+
+1998 - 1999
+
+Owner/Developer
+
+Inventor and national provider of service providing touch-tone access to the Internet and e-mail via standard touch-tone telephone (Tel-WWWsm).
+Participant in the Web Accessibility Initiative (accessible user-agent) working group sponsored by the World Wide Web consortium.
+Regularly invited reviewer of web standards: "Last Call review of User Agent Accessibility Guidelines 1.0 W3C Working Draft-November-1999".
+
+Environment:
+Microsoft Visual C++ 4.2; Winsock TCP/IP SDK, HTTP, HTML, POP3, Interactive Voice Response (IVR), Computer Telephone Integration (CTI); Text-to-Speech SDK.
